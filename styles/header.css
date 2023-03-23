@@ -1,7 +1,7 @@
 .menu__hamburguer {
     width: 2.625rem;
     height: 2.625rem;
-    background-image: url("../img/Menu.svg");
+    background-image: url("../img/menu.svg");
     background-repeat: no-repeat;
     background-position: center;
     display: inline-block;
